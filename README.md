@@ -14,7 +14,7 @@ A simple and clean calculator application built with Visual Basic .NET in Visual
 - Visual Studio
 
 ## 🚀 How to Run
-1. Download the Calculator.exe from the Releases section
+1. Download the Calculator.exe from the Releases section > https://github.com/SonicCreator10899/My-1st-Calculator/releases/tag/Calculator
 2. Double click to run — no installation needed!
 
 ## 👨‍💻 About
